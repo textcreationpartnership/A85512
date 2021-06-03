@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand account, or, a remonstrance wherein is plainly discovered the vast sum of money levied upon the kingdome by ordinance of Parliament since the beginning of the late warre : as also an accompt of the disposall of the greatest part thereof, for the service of the Parliament, &amp;c. : also vox populi, or, The cry of the commons against Committee-men : In all humility tendered unto the consideration of the body representative, now sitting in Parliament at Westminster.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85512</idno><idno type="EEBO-CITATION">43077499</idno>
+  <idno type="VID">151560</idno>
+  <idno type="EEBO-PROQUEST">2240894315</idno>
+  
+            <idno type="STC">Wing G1486</idno>
+            <idno type="STC">ESTC R201752</idno>
+            <idno type="OCLC">43077499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151560)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2264:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand account, or, a remonstrance wherein is plainly discovered the vast sum of money levied upon the kingdome by ordinance of Parliament since the beginning of the late warre : as also an accompt of the disposall of the greatest part thereof, for the service of the Parliament, &amp;c. : also vox populi, or, The cry of the commons against Committee-men : In all humility tendered unto the consideration of the body representative, now sitting in Parliament at Westminster.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed and published for the satisfaction of the kingdome."</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Appropriations and expenditures.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Public opinion.</term>
+               <term type="topical_term">Finance, Public --  Great Britain --  To 1688.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151560:1"/>
+            <pb facs="tcp:151560:1"/>
+            <p>The Grand Account. OR, A REMONSTRANCE: WHEREIN Is plainly discovered the vast Sums of Money levied upon the Kingdome by Ordinance of Parliament, since the beginning of the late Warre: As also an Accompt of the disposall of the greatest part therof, for the service of the PARLIAMENT, &amp;c.</p>
+            <p>ALSO <hi>VOX POPƲLI:</hi> OR, The Cry of the Commons against Committee-men.</p>
+            <p>In all humility rendered unto the consideration of the Body Representative, now sitting in Parlia<g ref="char:EOLhyphen"/>ment at <hi>Westminster.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Let him that stole, steale no more.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed and published for the satis<g ref="char:EOLhyphen"/>faction of the Kingdome, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:151560:2"/>
+            <pb n="1" facs="tcp:151560:2"/>
+            <head>A Remonstrance, or Grand accompt of the vast sums of Money levyed upon the Kingdom, by vertue of se<g ref="char:EOLhyphen"/>verall Ordinances of Parliament, since the be<g ref="char:EOLhyphen"/>ginning of the distractions in this Kingdom.</head>
+            <p>AMong many other grievances which we the Commons of <hi>England</hi> have for these late yeers lain under, this is not the least; to wit, the great sums of Money from time to time levyed upon us without any accompt given of the disposall thereof. Now to the end that you may not alway be bound up in ignorance, but may at last be made sensible of the burthen, that not onely your selves, but the whole Kingdom hath groaned under; take this accompt as perfect as can by computation be gathered, being I beleeve (though in it self large) yet much short, in respect of those vast sums by them received of the free Commons of <hi>England</hi> to be by them disposed and employ<g ref="char:EOLhyphen"/>ed for the service of the Publike, although contrarily (to the preju<g ref="char:EOLhyphen"/>dice of the Kingdom) they have contracted great debts upon the Kingdom, and shared and divided the publike Stock amongst them; they have empoverished you, to enrich themselves; and instead of being Stewards, they have made themselves your Lords.</p>
+            <p>How can it be imaginable that (so long as such large Fees are ta<g ref="char:EOLhyphen"/>ken out of the common Store by Committee-men, and others in<g ref="char:EOLhyphen"/>trusted) the Treasury should be other then empty? If the Stewards wages exceed his Lords Revenue, 'tis likely the Servant will be a better man then his Master: If the Speakers and their Clarks receive such large Fees (as is very true, and shall be demonstrated) I am very confident they may well be rich, but the Kingdom must of necessity be poor: neither need it be a wonder, they being paid so well, that the Army is paid no better: but I shall forbear, and onely proceed to the matter proposed, touching the accompt, as followeth.</p>
+            <div type="part">
+               <head>Composition-Money for Delinquents Estates.</head>
+               <p>The Fees of the two Speakers (and their Clarks) of the Lords
+<pb n="2" facs="tcp:151560:3"/>and Commons House of Parliament, for Pardons of Delinquents, is thirty five pounds of every man, whose estate is one hundred pounds <hi>per annum,</hi> and upwards.</p>
+               <p>So that three men, at thirty five pounds a man, comes to one hundred and five pounds. Ten men at thirty five pounds a man, comes to three hundred and fifty pounds. One hundred men, at the same rate, comes to three thousand five hundred pounds. One thou<g ref="char:EOLhyphen"/>sand men at thirty five pounds a man, comes to thirty five thou<g ref="char:EOLhyphen"/>sand pounds. Ten thousand men so paying, (as all have, and must before they can have their Pardons) comes to three hundred and fifty thousand pounds; which is thirty five Waggons loading of silver.</p>
+               <p>By Ordinance of Parliament, every Delinquent payes two yeers Revenue: as thus, He whose estate is a hundred pounds a yeer, payes two hundred pounds: and so proportionably.</p>
+               <p>As thus, Ten men, whose estates are betwixt one and two hun<g ref="char:EOLhyphen"/>dred pounds a yeer, their composition money comes to two thou<g ref="char:EOLhyphen"/>sand pounds.</p>
+               <p>One hundred men whose estates are between one and two hundred pounds a yeer, every man paying two yeers. Revenues, comes to twenty thousand pounds.</p>
+               <p>One thousand men so paying, comes to two hundred thousand pounds.</p>
+               <p>Ten thousand men so compounding, and paying, amounts to two Millions, and is twenty hundred thousand pounds, being two hun<g ref="char:EOLhyphen"/>dred waggons loading of silver, every waggon loading being ten thousand pounds in silver.</p>
+               <p>Now by the way, I beseech you, consider if there were no great<g ref="char:EOLhyphen"/>er Compositions then these, nor any other way used to raise mo<g ref="char:EOLhyphen"/>ney; if the Speakers had lesse Fees, and the summes so raised, were employed for the Kingdoms benefit: might not (thinke you) the Army have been as well paid, and the Kingdom as little in Debt as now it is? I humbly conceive that the Associated Counties and the Roules in Chancery-Iane, hath been pay enough for their good ser<g ref="char:EOLhyphen"/>vice, it being yet invisible, (for though they are sure of our money, we have not so much as the publike Faith for their good service, and which is worse, it is to be feared never shall have, unlesse it be Dennington-like.) But consider your misery further: If it be so
+<pb n="3" facs="tcp:151560:3"/>sleec'd at the first hand; surely tis flea'd before it gets through the Purgatory of Committee-men, Treasurers, and the like; (it must needs be pure silver, enduring such a fiery tryall.) but to proceed.</p>
+               <p>Divide ten thousand men in ten parts; as thus.</p>
+               <p>One thousand men Delinquents whose estates are betwixt one and two hundred pounds a yeer, every man paying but two hundred pound, two yeers Revennue, amounteth to two hundred thousand pound a yeer.</p>
+               <p>The second thousand men whose estates are betw̄ixt two and three hundred pounds a yeer, paying two yeers Revennue, comes to four hundred thousand pound.</p>
+               <p>The third thousand of Compounders, whose estates are betwixt three and four hundred pound a yeer, and so paying, amounts to six hundred thousand pound.</p>
+               <p>The fourth thousand Compounders, whose estates are betwixt four and five hundred pound a yeer, payes eight hundred thousand pound.</p>
+               <p>The fifth thousand Compounders, whose estates are betwixt five and six hundred pound a yeer, payes ten hundred thousand pound, which is three hundred waggons loading of silver, every Waggon loading being ten thousand pound in silver.</p>
+               <p>The other five thousand Delinquents paying as the before mentio<g ref="char:EOLhyphen"/>ed five thousand Compounders amounts to eight Millions, that is eight hundred Waggons of silver, ten thousand pound being a Wag<g ref="char:EOLhyphen"/>gons loading, and is in all one Million, one thousand, thirty and five Waggons Loading of silver</p>
+               <p>Then consider, if one thousand men, whose estate is but betwixt 1, and 2. hundred pound, come to two hundred thousand pounds, at two yeers Revennue; how many hundred thousand pounds comes one thousand mens estates to, that have been sequestred for this five yeers: most of their estates being 3, 4, 5, 6, 7, 8, and 900. l. and many of the said sequestred estates of the said one thousand Compounders, one, two, three, five, seven, yea nine thousand pound a yeer: yea some, ten twelve, fourteen, fifteen, yea sixteen thousand pound a yeer, if not more? All which cannot but be some Millions, as may be proved, which sequestration money if by them duely employed would have paid the Army, it being 435. Waggons loading of Silver.</p>
+               <pb n="4" facs="tcp:151560:4"/>
+               <p>All which is a masse of money, yet but a small summe to the mo<g ref="char:EOLhyphen"/>neys brought in as followeth.</p>
+               <p>First, Head-money.</p>
+               <p>Secondly, Plate lent upon the propositions.</p>
+               <p>Thirdly, Money raysed for the Rebels Lands.</p>
+               <p>Fourthly, Money for the Weekely Meales, for a Meale for one day in the weeke.</p>
+               <p>Fifthly, Money lent upon Ordinances of Parliament.</p>
+               <p>Sixthly, Fifty Subsidies.</p>
+               <p>Seventhly, the Twenty, and Twenty and Fifth part of Land and Goods.</p>
+               <p>Eightly, Excise.</p>
+               <p>Ninthly, Customes.</p>
+               <p>Tenthly, Sequestration of all the Delinquents Lands, since the Warre began.</p>
+               <p>Eleventh, the Kings Revennue.</p>
+               <p>Twelfe, Money for Newcastle Coales.</p>
+               <p>Thirteen, Money raysed for his Excellency of House-keepers, and some other Commanders in the like nature; besides plunderings, and what hath been taken going out of the Land, and to the King.</p>
+               <p>Lastly, Monthly Taxes upon all the Lands in the Associated Counties; which came to threescore thousand pounds a moneth, and so given in, if not more, and by the yeer amounts to seven hundred and twenty thousand pounds, and in five yeers comes to three Mi<g ref="char:EOLhyphen"/>lions fix hundred thousand pounds, and is, three hundred and fixty Waggons Loading of silver, at 10000. l. a waggons loading.</p>
+               <p>Yet for all these great sums thus raised, such is the want of mo<g ref="char:EOLhyphen"/>neys (as must be supposed) that the Bishops lands must be sold (for some hundred thousand pounds) to pay the Arrears of both Armies, yet but in part.</p>
+               <p>If this be not seriously looked into, and taken into consideration by the Soveraign, the people, (many of them now being ready to perish) they must look to be greater sufferers, by so much the more the exhausters increase in riches, and they decay by poverty, through oppression. And it is generally known we have no good common-wealths men, neither Judges, Lawyers, no nor those from whom we expected the establishment of good and wholesome Lawes, who have sufficient power so to doe, and to have prevented all deceitfull
+<pb n="5" facs="tcp:151560:4"/>and corrupt dealings, were not the over-ruling part of them corrupt.</p>
+               <p>Here is a glasse for all honest true hearted English-men to pre<g ref="char:EOLhyphen"/>sent the deformities of corruption unto, and to cause them to thinke it is high time to enquire what is become of these vast summes of treasure: what Lord but may justly require or demand a just ac<g ref="char:EOLhyphen"/>count of his Steward? If your Stewards have dealt deceitfully with you, let them know it, if you will not, then know, they will be your Lords, and you their vassalls, Therefore in time assist that Ar<g ref="char:EOLhyphen"/>my (all true hearted English-men) who neither hath, nor yet doe account any thing too deare for the wellfare and safety of this nati<g ref="char:EOLhyphen"/>on, nor will proceed, (as generally published by their Declaration) but to make this a famous and happy Kingdome, in the wayes of true justice, then shall no Droane live upon the laborious Bee, who now swarmes in every mans ground.</p>
+               <p>And how necessary it is with expedition, to have this Kingdome setled in the best wayes and lawes that can be advised; let the most judicious judge, then shall not any man whomsoever, by any power or authority oppresse another: will not this be to let the Lambe lye down with the Lyon and not feare devouring?</p>
+               <p>But if no law nor justice, but what shall be bought with money, Then be it known unto all men (who now may purchase their liber<g ref="char:EOLhyphen"/>ties and priviledges at an easie rate, shall as formerly they have been, be slaves to corrupt lawes and wills of men.</p>
+               <p>The totall of all which sums amounts to sixteen Millions, sixteen hundred thousand pounds of Silver, besides head money, plate money, and in that way.</p>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb n="6" facs="tcp:151560:5"/>
+            <head>VOX POPVLI: OR, The Cry of the Commons against Committee men.</head>
+            <p>SEEing it is now high time (most worthy Senators) that we the Free Commons of this Kingdom, after so hard a servi<g ref="char:EOLhyphen"/>tude under an unlimited Monarchicall power; So difficult a passage towards deliverance and freedom through a red Sea of blood, and so many dubious changes in the Wildernesse of disorder and confusion; should now begin to look after the enjoyment of that good Land (to wit, Peace, Freedom, and Ju<g ref="char:EOLhyphen"/>stice) promised us at the beginning, and for which we have with the expence of our lives and estates, so earnestly contested with the enemies of our and the Kingdoms Peace.</p>
+            <p>Was it not unlimited Prerogative, corruptions in Law and Courts of Justice, infringement of our Liberties, illegall Taxes, and the like, which was by you declared to be the misery of the Kingdom, a door and in-let to tyranny and oppression? And was it not that Regall power might be limited by Law, not proportioned by will? that the constitutions of our Law might not be destroyed, but reduced to their fundamentall purity; that Justice might be executed, and we preser<g ref="char:EOLhyphen"/>ved in our Liberties and Estates.</p>
+            <p>Give us leave then to expostulate a little: How comes it to passe, that (notwithstanding all your promises made so solemnly in the presence of God and the Kingdom) we reap not the harvest of this promising seed time? How comes it to passe, we beseech you, that such fair blossomes yeeld such slender fruit? Whence growes this muttering, nay, we may say groaning under, and exclamations a<g ref="char:EOLhyphen"/>gainst oppression, tyranny, and injustice in our streets, nay, Courts of (Injustice) Justice we cannot call them, even at the Parliament door, nay, within the Parliament House? How comes it to passe, that so many irregular, illegall, and we may say, Unparliamenta<g ref="char:EOLhyphen"/>ry Votes, Orders, Declarations, and Ordinances, passe for currant coyne one day, and counterfeit the next? Whence proceeds this spi<g ref="char:EOLhyphen"/>rit of ambition, contention, oppression, and sedition, which reigns
+<pb n="7" facs="tcp:151560:5"/>so powerfully amongst you? We cannot be seduced to believe that ever this proceeds from Parliament Principles; from Principles of Law and Justice; but from Principles of Ambition, Usurpation, Pride, Covetuousnesse, and the like, from the power of which Good Lord deliver us, &amp;c.</p>
+            <p>Did you so vehemently declare against Prerogative, with intent to destroy us by Priviledge? Did you exclaime against injustice in others, that your selves might be singular, yea superlatively unjust? Were corruptions in the Law past cure, so that your wils must be our supreme Law? Was the taking a little of our estates illegall in others, but in you justice to take all? Is this the end of our labour? The returne of our expectation, the prize we have sweat so much bloud for? Certainly we looked for Peace, but behold Warre; we looked for Justice, but behold Oppression; we looked for Liberty, but behold Slavery; and our end is worse then our beginning.</p>
+            <p>And now grave Senators, having with sorrow of heart given you some hints of the sence of our present sufferings, take notice (wee beseech you) of these our desires, in which we expect speedy sa<g ref="char:EOLhyphen"/>tisfaction from you.</p>
+            <p n="1">1. And first, wee beseech you looke unto the Rocke from whence you were hewen; were you not fellow Commonners with us? Were not every one of us as equally, fully, and properly interested in the safety and welfare, yea government of the King<g ref="char:EOLhyphen"/>dome, as any or all of you, considered as Commoners and Sub<g ref="char:EOLhyphen"/>jects? Did not you receive your power from us, for our good; to be accountable to us, by whom you were impowred and intrusted? Have you not your selves confessed and declared, that all intrust<g ref="char:EOLhyphen"/>ments are and ought to be for the good of the Trusters? upon this ground we the free Commons, and your fellow-Subjects expect from you the performance and discharge of your duty herein, toge<g ref="char:EOLhyphen"/>ther with the following particulars.</p>
+            <p n="2">2. Have you not declared that the Law ought to be the rule of the Kings Actions: and must it not be of the Parliaments likewise? Certainly you have sometime confessed, that they that give Law to others, ought not to be without, or above Law themseves. There<g ref="char:EOLhyphen"/>fore we the free Commons expect, that all un-Parliamentary acti<g ref="char:EOLhyphen"/>ons either within or without the House; whether privately, or publiquely; either by the whole, or any particular Member, or any
+<pb n="8" facs="tcp:151560:6"/>other by them intrusted, or impowred, be publiquely declared a<g ref="char:EOLhyphen"/>gainst; and that a way be opened for just reparation and reliefe a<g ref="char:EOLhyphen"/>gainst all such Arbitrary and exorbitant practises.</p>
+            <p n="3">3. Have you not declared, That no free Commoner ought, or might be dis-infranchised of his libertie, without indictment, and that the fining and imprisoning men without due processe at Law, was a breach upon the Law, and destructive to the Subjects liberty? How comes it then to passe, that since the time of your declaring it to be so unjust in others, you have so frequently used it your selves? What Prison is there free? Nay, what Countie or Corporation but hath some sufferers, being imprisoned by the Arbitrary Subject, destroying power of your Committees? The misery whereof we expect speedy redresse of; it being your owne declared dutie, and sutable to law and conscience; that being no way lawfull in you, which was by you condemned as unlawfull in others.</p>
+            <p n="4">4. Have you not complained that the Publique stocke was con<g ref="char:EOLhyphen"/>verted to private uses; and that the Kings Favourits spent the Kingdomes money? And may not wee the poore Commons justly complain now (considering the vast summes of money levied up<g ref="char:EOLhyphen"/>on us, and extorted from us) of the like, or worse practises? Hath not the Kingdomes Monie been divided, thousands in a mor<g ref="char:EOLhyphen"/>ning? But for what memorable service we know not, unlesse it were for betraying us, our Cities, Townes, Forts, and the like.</p>
+            <p n="5">5. Have you not often declared against the King for protecting and keeping Delinquents from tryall? How comes it to passe then that you your selves have protected and abetted so many false and traiterous Members, under pretence of Priviledge? under correcti<g ref="char:EOLhyphen"/>on we conceive, the Kings Prerogative is a much better Plea, then your Priviledge: therefore we expect the speedy suspension of all persons charged with any crime, and that all persons that have acted to the prejudice of the Kingdome, in endeavouring to fo<g ref="char:EOLhyphen"/>ment a new Warre, be brought to condigne punishment.</p>
+            <p n="6">6. That forasmuch as it is pretended, that (notwithstanding the vast summes of Monie that have beene raised for the service of the Kingdome) the publique Treasury is empty, and the State not able without further charge to the Kingdome, (which will occasion great trouble and discontent) to pay the Arreares of the Army: And forasmuch as it is apparant, that vast summes of the Kingdoms
+<pb n="9" facs="tcp:151560:6"/>money yet remaineth in the hands of severall Ministers of State, as Committee-men, Excise-men, Sequestrators, and the like, unac<g ref="char:EOLhyphen"/>counted for; to the great prejudice of the Kingdome: That there<g ref="char:EOLhyphen"/>fore the honourable Houses of Parliament would be pleased, by Or<g ref="char:EOLhyphen"/>der, Ordinance, or otherwise as to you shall seeme meet; to com<g ref="char:EOLhyphen"/>mand all Committee-men, Excise-men, Sequestrators, and the like; through whose hands the Kingdomes money hath gone; who have not given a just accompt; to bring in by such a day, such compe<g ref="char:EOLhyphen"/>tent summes of money, (according to their Relations, and Em<g ref="char:EOLhyphen"/>ployments) as shall be sufficient to pay the Arreares of the Army: which summes so to remain deposited, untill such time as they have given a true accompt of the disposure of all moneys by them levyed and received of the Kindgome for the service thereof.</p>
+            <p>To conclude, we desire and expect the due execution of Justice, and Judgement: That satisfaction be given the Army: That all law<g ref="char:EOLhyphen"/>full meanes be used for the establishment of Peace in these Domi<g ref="char:EOLhyphen"/>nions: That our burthens be lessened, and as soone as may be with safetie removed: That the Accounts of the Kingdome be per<g ref="char:EOLhyphen"/>fected: The publique faith, and other publique Debts satisfyed: That our Petitions be from time to time freely received, and spee<g ref="char:EOLhyphen"/>dily answered: Without which we shall not dis-ingage you of the performance of your trust; but shall be inforced to take such a course as Providence, and our pressing necessitie shall lay before us, and leave the issue thereof to God, who is able to direct you, and protect us in all our undertakings.</p>
+            <trailer>There is no end of this matter.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
